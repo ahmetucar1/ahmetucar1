@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ahmetucar1
-- 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning React 
-
-
+Hi, I'm Ahmet. I'm developing projects with javascript.
