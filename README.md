@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name] – a passionate tech enthusiast with a background in Management Information Systems. 
+👋 Hi there! I'm Ahmet – a passionate tech enthusiast with a background in Management Information Systems. 
 I thrive on solving problems and creating efficient solutions through technology. Currently, 
 I'm diving deep into backend development with C# as part of the Patika.Dev Bootcamp.
 
